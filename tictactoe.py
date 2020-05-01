@@ -40,4 +40,4 @@ for i in range(9) :
 		y = y + 1
 		break
 if y != 1 :
-    print("It's a draw") 
+    print("It's a draw")  
